@@ -6,7 +6,7 @@ description: Kami memprioritaskan tingkat kemanan dengan standar tinggi diatas s
 
 Dengan memusatkan perhatian pada segala bentuk resiko, Soup Finance hanya akan diluncurkan dengan persiapan yang matang oleh pengembang dan mitra keamanannya untuk memastikan hasil audit keamanan yang ekstensif.
 
-Sesuai dengan etika kemanan dan transparansi kripto:
+Sesuai dengan etika keamanan dan transparansi kripto:
 
 * Soup Finance akan terus menjalani serangkaian audit.
 * Setiap orang dapat memperoleh token Soup dengan kesempatan yang sama, tidak ada Presale maupun alokasi khusus untuk investor, serta anggota tim hanya memegang kurang dari 9% total supply yang terkunci selama 3 tahun. Sehingga tidak akan ada yang akan melakukan _dump_ pada token.

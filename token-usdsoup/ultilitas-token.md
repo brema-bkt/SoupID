@@ -26,7 +26,7 @@ $SOUP merupakan token dengan multi-ultilitas yang fungsional, sehingga pemegangn
 * $SOUP akan berperan sebagai token untuk tata kelola **Soup Crush Dynasty** - sebuah game mobile play-to-earn yang menyenangkan dengan berbagai karakter, koleksi item, peningkatan, maps, dll.
 * Setor dan Pinjam $SOUP
 * &#x20;Staking single-side $SOUP yang didasarkan pada durasi staking(time-weighted)
-* &#x20;Staiing LP SOUP/FSN dan SOUP/CHNG yang didasarkan pada durasi staking(time-weighted)
+* &#x20;Staking LP SOUP/FSN dan SOUP/CHNG yang didasarkan pada durasi staking(time-weighted)
 * Memberi suara untuk mengubah struktur protokol dan penggunaan dana bendahara
 
 Dengan adanya biaya aktivitas di ekosistem dan token burn, nilai dari $SOUP akan semakin baik bagi para Holders. Bersamaan dengan perkembangan Soup Finance, akan semakin banyak pula $SOUP yang akan di-burn yang akan membuat total suplai $SOUP terus berkurang dan menjadi token deflasi.
