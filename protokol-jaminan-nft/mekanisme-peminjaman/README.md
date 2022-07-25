@@ -24,3 +24,7 @@ Penentapan nilai floor-price pada platform kami akan menggunakan Oracle yang ter
 ### Rasio Pinjaman terhadap Nilai (LTV)
 
 Rasio jaminan NFT dapat disesuikan berdasarkan volatilitas dan likuiditas koleksi NFT. Mengingat rendahnya likuiditas NFT, parameter LTV akan dibuka pada rasio 30% dengan ambang batas likuidasi 50% untuk memastikan tingginya slippage tidak mengganggu kualitas pool yang tersedia.
+
+### Likuidasi
+
+Peminjam harus tetap berada di bawah ambang likuidasi dari nilai jaminan yang disuplai atau mereka akan mengalami likuidasi. Kami menghitung ambang likuidasi ini berdasarkan rata-rata tertimbang dari semua aset yang disuplai. Ketika 'nToken' dilikuidasi, NFT-nya akan dilelang.

@@ -55,6 +55,7 @@
 ## Pusat Bantuan
 
 * [Bantuan](pusat-bantuan/bantuan.md)
+* [Disclaimer](pusat-bantuan/disclaimer.md)
 
 ## Bergabung dengan Soup
 
